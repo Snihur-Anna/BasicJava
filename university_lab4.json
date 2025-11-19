@@ -1,0 +1,373 @@
+{
+  "faculties": [
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "name": "Факультет комп\u0027ютерних наук кафедра 1-101-S1",
+                  "head": {
+                    "lastName": "Коваленко",
+                    "firstName": "Ірина",
+                    "patronymic": "Миколаївна",
+                    "sex": "FEMALE"
+                  },
+                  "lastName": "Іваненко",
+                  "firstName": "Іван",
+                  "patronymic": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Факультет комп\u0027ютерних наук кафедра 1-101-S2",
+                  "head": {
+                    "lastName": "Коваленко",
+                    "firstName": "Ірина",
+                    "patronymic": "Миколаївна",
+                    "sex": "FEMALE"
+                  },
+                  "lastName": "Петренко",
+                  "firstName": "Марія",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Факультет комп\u0027ютерних наук кафедра 1-101",
+              "head": {
+                "lastName": "Коваленко",
+                "firstName": "Ірина",
+                "patronymic": "Миколаївна",
+                "sex": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "name": "Факультет комп\u0027ютерних наук кафедра 1-102-S1",
+                  "head": {
+                    "lastName": "Коваленко",
+                    "firstName": "Ірина",
+                    "patronymic": "Миколаївна",
+                    "sex": "FEMALE"
+                  },
+                  "lastName": "Іваненко",
+                  "firstName": "Іван",
+                  "patronymic": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Факультет комп\u0027ютерних наук кафедра 1-102-S2",
+                  "head": {
+                    "lastName": "Коваленко",
+                    "firstName": "Ірина",
+                    "patronymic": "Миколаївна",
+                    "sex": "FEMALE"
+                  },
+                  "lastName": "Петренко",
+                  "firstName": "Марія",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Факультет комп\u0027ютерних наук кафедра 1-102",
+              "head": {
+                "lastName": "Коваленко",
+                "firstName": "Ірина",
+                "patronymic": "Миколаївна",
+                "sex": "FEMALE"
+              }
+            }
+          ],
+          "name": "Факультет комп\u0027ютерних наук кафедра 1",
+          "head": {
+            "lastName": "Коваленко",
+            "firstName": "Ірина",
+            "patronymic": "Миколаївна",
+            "sex": "FEMALE"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "name": "Факультет комп\u0027ютерних наук кафедра 2-101-S1",
+                  "head": {
+                    "lastName": "Коваленко",
+                    "firstName": "Ірина",
+                    "patronymic": "Миколаївна",
+                    "sex": "FEMALE"
+                  },
+                  "lastName": "Іваненко",
+                  "firstName": "Іван",
+                  "patronymic": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Факультет комп\u0027ютерних наук кафедра 2-101-S2",
+                  "head": {
+                    "lastName": "Коваленко",
+                    "firstName": "Ірина",
+                    "patronymic": "Миколаївна",
+                    "sex": "FEMALE"
+                  },
+                  "lastName": "Петренко",
+                  "firstName": "Марія",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Факультет комп\u0027ютерних наук кафедра 2-101",
+              "head": {
+                "lastName": "Коваленко",
+                "firstName": "Ірина",
+                "patronymic": "Миколаївна",
+                "sex": "FEMALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "name": "Факультет комп\u0027ютерних наук кафедра 2-102-S1",
+                  "head": {
+                    "lastName": "Коваленко",
+                    "firstName": "Ірина",
+                    "patronymic": "Миколаївна",
+                    "sex": "FEMALE"
+                  },
+                  "lastName": "Іваненко",
+                  "firstName": "Іван",
+                  "patronymic": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Факультет комп\u0027ютерних наук кафедра 2-102-S2",
+                  "head": {
+                    "lastName": "Коваленко",
+                    "firstName": "Ірина",
+                    "patronymic": "Миколаївна",
+                    "sex": "FEMALE"
+                  },
+                  "lastName": "Петренко",
+                  "firstName": "Марія",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Факультет комп\u0027ютерних наук кафедра 2-102",
+              "head": {
+                "lastName": "Коваленко",
+                "firstName": "Ірина",
+                "patronymic": "Миколаївна",
+                "sex": "FEMALE"
+              }
+            }
+          ],
+          "name": "Факультет комп\u0027ютерних наук кафедра 2",
+          "head": {
+            "lastName": "Коваленко",
+            "firstName": "Ірина",
+            "patronymic": "Миколаївна",
+            "sex": "FEMALE"
+          }
+        }
+      ],
+      "name": "Факультет комп\u0027ютерних наук",
+      "head": {
+        "lastName": "Коваленко",
+        "firstName": "Ірина",
+        "patronymic": "Миколаївна",
+        "sex": "FEMALE"
+      }
+    },
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "name": "Факультет економіки кафедра 1-101-S1",
+                  "head": {
+                    "lastName": "Гончар",
+                    "firstName": "Олег",
+                    "patronymic": "Ігорович",
+                    "sex": "MALE"
+                  },
+                  "lastName": "Іваненко",
+                  "firstName": "Іван",
+                  "patronymic": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Факультет економіки кафедра 1-101-S2",
+                  "head": {
+                    "lastName": "Гончар",
+                    "firstName": "Олег",
+                    "patronymic": "Ігорович",
+                    "sex": "MALE"
+                  },
+                  "lastName": "Петренко",
+                  "firstName": "Марія",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Факультет економіки кафедра 1-101",
+              "head": {
+                "lastName": "Гончар",
+                "firstName": "Олег",
+                "patronymic": "Ігорович",
+                "sex": "MALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "name": "Факультет економіки кафедра 1-102-S1",
+                  "head": {
+                    "lastName": "Гончар",
+                    "firstName": "Олег",
+                    "patronymic": "Ігорович",
+                    "sex": "MALE"
+                  },
+                  "lastName": "Іваненко",
+                  "firstName": "Іван",
+                  "patronymic": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Факультет економіки кафедра 1-102-S2",
+                  "head": {
+                    "lastName": "Гончар",
+                    "firstName": "Олег",
+                    "patronymic": "Ігорович",
+                    "sex": "MALE"
+                  },
+                  "lastName": "Петренко",
+                  "firstName": "Марія",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Факультет економіки кафедра 1-102",
+              "head": {
+                "lastName": "Гончар",
+                "firstName": "Олег",
+                "patronymic": "Ігорович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "Факультет економіки кафедра 1",
+          "head": {
+            "lastName": "Гончар",
+            "firstName": "Олег",
+            "patronymic": "Ігорович",
+            "sex": "MALE"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "name": "Факультет економіки кафедра 2-101-S1",
+                  "head": {
+                    "lastName": "Гончар",
+                    "firstName": "Олег",
+                    "patronymic": "Ігорович",
+                    "sex": "MALE"
+                  },
+                  "lastName": "Іваненко",
+                  "firstName": "Іван",
+                  "patronymic": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Факультет економіки кафедра 2-101-S2",
+                  "head": {
+                    "lastName": "Гончар",
+                    "firstName": "Олег",
+                    "patronymic": "Ігорович",
+                    "sex": "MALE"
+                  },
+                  "lastName": "Петренко",
+                  "firstName": "Марія",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Факультет економіки кафедра 2-101",
+              "head": {
+                "lastName": "Гончар",
+                "firstName": "Олег",
+                "patronymic": "Ігорович",
+                "sex": "MALE"
+              }
+            },
+            {
+              "students": [
+                {
+                  "name": "Факультет економіки кафедра 2-102-S1",
+                  "head": {
+                    "lastName": "Гончар",
+                    "firstName": "Олег",
+                    "patronymic": "Ігорович",
+                    "sex": "MALE"
+                  },
+                  "lastName": "Іваненко",
+                  "firstName": "Іван",
+                  "patronymic": "Іванович",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Факультет економіки кафедра 2-102-S2",
+                  "head": {
+                    "lastName": "Гончар",
+                    "firstName": "Олег",
+                    "patronymic": "Ігорович",
+                    "sex": "MALE"
+                  },
+                  "lastName": "Петренко",
+                  "firstName": "Марія",
+                  "patronymic": "Петрівна",
+                  "sex": "FEMALE"
+                }
+              ],
+              "name": "Факультет економіки кафедра 2-102",
+              "head": {
+                "lastName": "Гончар",
+                "firstName": "Олег",
+                "patronymic": "Ігорович",
+                "sex": "MALE"
+              }
+            }
+          ],
+          "name": "Факультет економіки кафедра 2",
+          "head": {
+            "lastName": "Гончар",
+            "firstName": "Олег",
+            "patronymic": "Ігорович",
+            "sex": "MALE"
+          }
+        }
+      ],
+      "name": "Факультет економіки",
+      "head": {
+        "lastName": "Гончар",
+        "firstName": "Олег",
+        "patronymic": "Ігорович",
+        "sex": "MALE"
+      }
+    }
+  ],
+  "name": "Національний університет прикладу",
+  "head": {
+    "lastName": "Сидоренко",
+    "firstName": "Олександр",
+    "patronymic": "Петрович",
+    "sex": "MALE"
+  }
+}

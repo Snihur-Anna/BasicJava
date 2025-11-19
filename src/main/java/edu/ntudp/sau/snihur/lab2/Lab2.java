@@ -1,4 +1,4 @@
-package edu.ntudp.sau.snihur.lab1;
+package edu.ntudp.sau.snihur.lab2;
 
 import java.util.Scanner;
 import java.util.Random;
